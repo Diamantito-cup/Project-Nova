@@ -33,6 +33,6 @@ Pero por el resto, todo muy bien, el que quiera ayudar pues, bienvenido :P
 ---
 
 > [!NOTE]
-> Este reopsitorio no se va a actualizar mucho a partir de ahora, solo un par de cosas más como bugs raros y referencias, solo vamos a hacer público y usable esta parte del codigo, el resto queda disponible solo para mods y otras cosas como parches y sugerencias para añadir en DLCs o nuevas versiones del juego (o, si quieren, puedo hacer publico todo el juego para que que cualquiera pueda reportar un issues/fork de este :3)
+> Este reopsitorio no se va a actualizar mucho a partir de ahora, solo un par de cosas más como bugs raros y referencias (o, si quieren, puedo hacer publico todo el juego para que que cualquiera pueda reportar un issues/fork de este :3)
 
 > --> By Sandbox Games™
